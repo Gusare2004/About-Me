@@ -1,2 +1,2 @@
-# About-Me
-self introduction :D
+# About-Me :D
+a BJTU student,major in CS
